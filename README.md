@@ -1,15 +1,1 @@
-# IFData Bacen - Tratamento de Dados e An†lises em R
-
-Este reposit¢rio contÇm a base de dados tratada, scripts e workspaces referentes aos indicadores e dados cont†beis do **IF.data (Banco Central do Brasil)**.
-
-## ?? Estrutura do Reposit¢rio
-
-* **Base de Dados:** Arquivos e bases brutas do IF.data.
-* **ATIVO R. FILE:** Scripts e dados referentes ao Ativo Total.
-* **LUCRO L÷QUIDO R.FILE:** Scripts e dados referentes ao Lucro L°quido das instituiá‰es.
-* **PROVISIONAMENTO R.File:** Scripts e dados de provis∆o para crÇditos de liquidaá∆o duvidosa.
-* **RESULT. INTERM FINANCEIRA R.File:** Scripts referentes ao Resultado de Intermediaá∆o Financeira.
-* **ROAE R.File:** Scripts e an†lises de Rentabilidade sobre o Patrimìnio L°quido (ROAE/ROE).
-
----
-*Organizado para an†lise do setor banc†rio brasileiro (2000 a 2024).*
+Ôªø# IFData Bacen - Tratamento de Dados e An√°lises em R`n`nEste reposit√≥rio cont√©m a base de dados tratada, scripts e workspaces referentes aos indicadores e dados cont√°beis do **IF.data (Banco Central do Brasil)**.`n`n## üìÅ Estrutura do Reposit√≥rio`n`n* **Base de Dados:** Arquivos e bases brutas do IF.data.`n* **ATIVO R. FILE:** Scripts e dados referentes ao Ativo Total.`n* **LUCRO L√çQUIDO R.FILE:** Scripts e dados referentes ao Lucro L√≠quido das institui√ß√µes.`n* **PROVISIONAMENTO R.File:** Scripts e dados de provis√£o para cr√©ditos de liquida√ß√£o duvidosa.`n* **RESULT. INTERM FINANCEIRA R.File:** Scripts referentes ao Resultado de Intermedia√ß√£o Financeira.`n* **ROAE R.File:** Scripts e an√°lises de Rentabilidade sobre o Patrim√¥nio L√≠quido (ROAE/ROE).`n`n---`n*Organizado para an√°lise do setor banc√°rio brasileiro (2000 a 2024).*
