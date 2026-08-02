@@ -1,6 +1,6 @@
 # IFData Bacen - Tratamento de Dados e Análises em R
 
-Este repositório contém a base de dados tratada, scripts e workspaces referentes aos indicadores e dados contábeis do **IF.data (Banco Central do Brasil)**.
+Este repositório contém a base de dados tratada e scripts referentes aos indicadores e dados contábeis do **IF.data (Banco Central do Brasil)**.
 
 ## 📁 Estrutura do Repositório
 
